@@ -1,0 +1,136 @@
+[
+  {
+    "id": "kozhikode",
+    "title": "Kozhikode",
+    "description": "Kozhikode is a coastal city in the south Indian state of Kerala. It was a significant spice trade center and is close to Kappad Beach.",
+    "image": "https://i.ibb.co/zN3C6gb/kozhikode-Th.jpg",
+    "courselImage": [
+      {
+        "original": "https://i.ibb.co/zN3C6gb/kozhikode-Th.jpg",
+        "thumbnail": "https://i.ibb.co/zN3C6gb/kozhikode-Th.jpg",
+        "originalTitle": "abcdf"
+      }
+    ],
+    "imageList": [
+      {
+        "id": 1,
+        "img": "https://i.ibb.co/zN3C6gb/kozhikode-Th.jpg",
+        "title": "xyz"
+      },
+      {
+        "id": 2,
+        "img": "https://i.ibb.co/zN3C6gb/kozhikode-Th.jpg",
+        "title": "xyz"
+      },
+      {
+        "id": 3,
+        "img": "https://i.ibb.co/zN3C6gb/kozhikode-Th.jpg",
+        "title": "xyz"
+      },
+      {
+        "id": 4,
+        "img": "https://i.ibb.co/zN3C6gb/kozhikode-Th.jpg",
+        "title": "xyz"
+      }
+    ]
+  },
+  {
+    "id": "kottakkal",
+    "title": "Kottakkal",
+    "description": "Kottakkal is municipal town in Malappuram district and best known for the Arya Vaidya Sala, one of the top Ayurvedic health centres of the world.",
+    "image": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+    "courselImage": [
+      {
+        "original": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+        "thumbnail": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+        "originalTitle": "abcdf"
+      }
+    ],
+    "imageList": [
+      {
+        "id": 1,
+        "img": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+        "title": "xyz"
+      },
+      {
+        "id": 2,
+        "img": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+        "title": "xyz"
+      },
+      {
+        "id": 3,
+        "img": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+        "title": "xyz"
+      },
+      {
+        "id": 4,
+        "img": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+        "title": "xyz"
+      },
+      {
+        "id": 1,
+        "img": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+        "title": "xyz"
+      },
+      {
+        "id": 2,
+        "img": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+        "title": "xyz"
+      },
+      {
+        "id": 3,
+        "img": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+        "title": "xyz"
+      },
+      {
+        "id": 4,
+        "img": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+        "title": "xyz"
+      },
+      {
+        "id": 1,
+        "img": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+        "title": "xyz"
+      },
+      {
+        "id": 2,
+        "img": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+        "title": "xyz"
+      },
+      {
+        "id": 3,
+        "img": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+        "title": "xyz"
+      },
+      {
+        "id": 4,
+        "img": "https://i.ibb.co/KV3CpSP/Kottakkal-Th.jpg",
+        "title": "xyz"
+      }
+    ]
+  },
+  {
+    "id": "tirur",
+    "title": "Tirur",
+    "description": "Tirur is a Town and municipality in Malappuram district in the Indian state of Kerala spread over an area of 62.34 square kilometres.",
+    "image": "https://i.ibb.co/YXjY69R/Tirur-Th.jpg"
+  },
+  {
+    "id": "guruvayur",
+    "title": "Guruvayur",
+    "description": "Guruvayur is a pilgrimage town, where Hindu devotees make offerings of fruit, spices or coins, often equivalent to their own weight.",
+    "image": "https://i.ibb.co/wrTJvSL/Guruvayur-Th.jpg"
+  },
+  {
+    "id": "thrissur",
+    "title": "Thrissur",
+    "description": "Thrissur is known for sacred sites and colorful festivals. In the center is Vadakkumnathan Temple, dedicated to Lord Shiva and adorned with murals.",
+    "image": "https://i.ibb.co/LNCV1TB/Thrissur-Th.jpg"
+  },
+  {
+    "id": "kochi",
+    "title": "Kochi",
+    "description": "Kochi (also known as Cochin) has been a port since 1341, when a flood carved out its harbor and opened it to Arab, Chinese and European merchants",
+    "image": "https://i.ibb.co/nfV9bfm/Kochi-Th.jpg"
+  }
+]
